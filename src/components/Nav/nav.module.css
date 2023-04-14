@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  padding: 0.5rem;
+  position: sticky;
+  top: -1px;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: var(--base-color);
+}
+
+/* EXEPTION */
+button {
+  background: none;
+  color: #fafafa;
+}
